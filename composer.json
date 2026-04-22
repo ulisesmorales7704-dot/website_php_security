@@ -1,5 +1,5 @@
 {
-  "name": "website_php_security",
+  "name": "ulises/website-php-security",
   "description": "PHP security testing project",
   "license": "MIT",
   "require": {}
