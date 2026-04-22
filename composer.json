@@ -1,5 +1,6 @@
 {
-  "name": "ulisesmorales7704-dot/website_php_security",
+  "name": "website_php_security",
   "description": "PHP security testing project",
+  "license": "MIT",
   "require": {}
 }
